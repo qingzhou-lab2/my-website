@@ -4,11 +4,11 @@ import './globals.css';
 
 export const metadata: Metadata = {
   title: {
-    default: '新应用 | 扣子编程',
-    template: '%s | 扣子编程',
+    default: '星宇 | 美国移民',
+    template: '%s | 星宇美国移民',
   },
   description:
-    '扣子编程是一款一站式云端 Vibe Coding 开发平台。通过对话轻松构建智能体、工作流和网站，实现从创意到上线的无缝衔接。',
+    '专业美国移民服务 - EB1/EB2/EB5/H1B/L1/庇护',
   keywords: [
     '扣子编程',
     'Coze Code',
